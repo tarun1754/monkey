@@ -1,2 +1,2 @@
-# monkeygame
+# monkey
 project
